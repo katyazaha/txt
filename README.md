@@ -15,6 +15,7 @@
 | 9. Create file preferences.txt                                                  | ```touch preferences.txt```                         |
 | 10. Add info about your preferences to file preferences.txt                     | ```vim preferences.txt```                           |
 | 11. Create file sklls.txt and add info about your skills                        | ```touch skills.txt```                              |
+|                                                                                 | ```vim skills.txt```                                |
 | 12. Send both files to github                                                   | ```git add .```                                     | 
 | 13. On web interface create file bug_report.txt                                 | ```Add file```                                      |
 |                                                                                 | ```Create new file```                               |
